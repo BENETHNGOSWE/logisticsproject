@@ -1,0 +1,10 @@
+@extends('frontends.layouts.main')
+@section('content')
+    @include('frontends.pages.slideimage')
+    @include('frontends.pages.about')
+    @include('frontends.pages.services')
+    @include('frontends.pages.project')
+    @include('frontends.pages.team')
+    @include('frontends.pages.contactus')
+    @include('frontends.pages.achivements')
+@endsection
