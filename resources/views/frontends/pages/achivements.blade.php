@@ -6,17 +6,15 @@
           <div class="row g-4 justify-content-between">
               <div class="col-xxl-6 col-xl-7 col-lg-8">
                   <div class="achivements-content">
-                      <div class="section-title">
-                          <h6 class="wow fadeInUp"><i class="fa-regular fa-arrow-left-long"></i>ACHIVEMENTS<i
-                                  class="fa-regular fa-arrow-right-long"></i></h6>
-                          <h2 class="wow fadeInUp" data-wow-delay=".2s">Let's Get Started We are <br> now
-                              Transport a dream.</h2>
-                      </div>
-                      <p class="mt-3 mt-md-0 wow fadeInUp">
-                        At our company, we turn transportation dreams into reality. With a commitment to excellence, 
-                        we provide top-tier cargo and air transport services that ensure your goods reach their destination safely and on time. 
-                        Our experienced team is dedicated to delivering reliable solutions tailored to meet your specific needs.
-                      </p>
+                    <div class="section-title">
+                        <h6 class="wow fadeInUp"><i class="fa-regular fa-arrow-left-long"></i>ACHIEVEMENTS<i class="fa-regular fa-arrow-right-long"></i></h6>
+                        <h2 class="wow fadeInUp" data-wow-delay=".2s">Let's Get Started, We are <br> Building Your Dream Home.</h2>
+                    </div>
+                    <p class="mt-3 mt-md-0 wow fadeInUp">
+                        At our company, we turn your dream home and landscape into reality. With a commitment to excellence, 
+                        we provide expert construction and landscape services that ensure your vision is built to perfection. 
+                        Our experienced team is dedicated to delivering reliable, high-quality solutions tailored to your unique needs.
+                    </p>                    
                       <div class="row">
                           <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".2s">
                               <div class="counter-items">

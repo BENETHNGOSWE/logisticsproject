@@ -11,7 +11,7 @@
             <div class="row g-4">
                 <div class="col-lg-6">
                     <div class="about-image">
-                        <img src="assets/img/about/03.jpg" alt="img" class="wow fadeInLeft"
+                        <img src="assets/img/about/03.webp" alt="img" class="wow fadeInLeft"
                             data-wow-delay=".3s">
                         <div class="about-image-2 wow fadeInUp" data-wow-delay=".2s">
                             <img src="assets/img/about/04.jpg" alt="img">
@@ -36,12 +36,12 @@
                             <h6 class="wow fadeInUp"><i class="fa-regular fa-arrow-left-long"></i>About Our
                                 Company<i class="fa-regular fa-arrow-right-long"></i></h6>
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">Dedicated To Providing <br> Top-Notch
-                                Transport</h2>
+                                Design</h2>
                         </div>
                         <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".4s">
-                            At Here, we are committed to providing top-tier logistics solutions, specializing in air, sea, and land freight services. 
-                            With years of experience, we ensure timely and efficient delivery for all your cargo needs,
-                             making us a trusted partner in the world of transportation
+                            At Here, we are committed to delivering top-tier construction and landscape services, specializing in building dream homes and outdoor spaces.
+                             With years of experience, we ensure timely and efficient project execution, 
+                             making us a trusted partner in creating the home you’ve always envisioned.
                         </p>
                         <div class="row g-4 mt-3">
                             <div class="col-lg-6 wow fadeInUp" data-wow-delay=".2s">
@@ -63,13 +63,13 @@
                         </div>
                         <ul class="list-items wow fadeInUp" data-wow-delay=".2s">
                             <li> <i class="fa-solid fa-circle-check"></i>
-                                Proactively pontificate client-centered relationships
+                                Proactively cultivate client-centered relationships.
                             </li>
                             <li> <i class="fa-solid fa-circle-check"></i>
-                                Is there a waiting list for desired work to be started
+                                Inquire about the waiting list for your project start.
                             </li>
                             <li> <i class="fa-solid fa-circle-check"></i>
-                                Release of Letraset sheets containing Lorem Ipsum
+                                Let us bring your dream home and landscape to life.
                             </li>
                         </ul>
                         <div class="about-author">

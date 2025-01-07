@@ -26,14 +26,11 @@
                             <i class="fa-sharp fa-solid fa-plane-arrival"></i>
                         </div>
                         <div class="content">
-                            <h3><a href="service-details.html">ocean
-                                    Freight</a></h3>
+                            <h3><a href="service-details.html">Home Construction</a></h3>
                             <p>
-                                Ocean freight provides reliable, cost-effective shipping for large cargo across international waters,
-                                 ensuring timely delivery worldwide
+                                We specialize in building custom homes with high-quality craftsmanship, tailored to your vision and needs.
                             </p>
-                            <a href="service-details.html" class="link-btn">Explore More <i
-                                    class="fa-solid fa-arrow-right"></i></a>
+                            <a href="service-details.html" class="link-btn">Explore More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                         <div class="items-shape">
                             <img src="assets/img/service/items-shape.png" alt="img">
@@ -52,14 +49,11 @@
                             <i class="fa-solid fa-plane"></i>
                         </div>
                         <div class="content">
-                            <h3><a href="service-details.html">Air
-                                    Freight</a></h3>
+                            <h3><a href="service-details.html">Landscape Design</a></h3>
                             <p>
-                                Air freight offers fast, efficient shipping for urgent cargo, ensuring quick
-                                 delivery across global destinations
+                                Transform your outdoor space with our expert landscape design services, creating beautiful, functional environments.
                             </p>
-                            <a href="service-details.html" class="link-btn">Explore More <i
-                                    class="fa-solid fa-arrow-right"></i></a>
+                            <a href="service-details.html" class="link-btn">Explore More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                         <div class="items-shape">
                             <img src="assets/img/service/items-shape.png" alt="img">
@@ -78,14 +72,11 @@
                             <i class="fas fa-landmark"></i>
                         </div>
                         <div class="content">
-                            <h3><a href="service-details.html">Land
-                                    Freight</a></h3>
+                            <h3><a href="service-details.html">Renovations</a></h3>
                             <p>
-                                Land freight provides flexible, cost-effective transport for goods over short to medium distances, 
-                                ensuring timely delivery.
+                                From minor updates to major renovations, we provide comprehensive remodeling services to enhance your home’s value.
                             </p>
-                            <a href="service-details.html" class="link-btn">Explore More <i
-                                    class="fa-solid fa-arrow-right"></i></a>
+                            <a href="service-details.html" class="link-btn">Explore More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                         <div class="items-shape">
                             <img src="assets/img/service/items-shape.png" alt="img">
@@ -104,14 +95,11 @@
                             <i class="fa-sharp fa-solid fa-train"></i>
                         </div>
                         <div class="content">
-                            <h3><a href="service-details.html">Railway
-                                    Freight</a></h3>
+                            <h3><a href="service-details.html">Project Management</a></h3>
                             <p>
-                                Railway freight ensures safe, efficient transport of large goods over long distances,
-                                 offering cost-effective solutions.
+                                Our experienced project managers ensure your construction and landscape projects are completed on time and within budget.
                             </p>
-                            <a href="service-details.html" class="link-btn">Explore More <i
-                                    class="fa-solid fa-arrow-right"></i></a>
+                            <a href="service-details.html" class="link-btn">Explore More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                         <div class="items-shape">
                             <img src="assets/img/service/items-shape.png" alt="img">
