@@ -13,7 +13,7 @@
                 <div class="content">
                     <p>Office location</p>
                     <h3>
-                        Mabibo Dar es salaam
+                        Masaki-Dar es salaam
                     </h3>
                 </div>
             </div>
@@ -24,7 +24,7 @@
                 <div class="content">
                     <p>send email</p>
                     <h3>
-                        <a href="mailto:example@gmail.com">developerbeneth@gmail.com</a>
+                        <a href="mailto:example@gmail.com">info@greenrevolution.com</a>
                     </h3>
                 </div>
             </div>
@@ -110,25 +110,25 @@
                             <li>
                                 <a href="#">
                                     <i class="fa-solid fa-chevrons-right"></i>
-                                    Request a Freight
+                                    Home Construction
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
                                     <i class="fa-solid fa-chevrons-right"></i>
-                                    Track & Trace
+                                    Consultation
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
                                     <i class="fa-solid fa-chevrons-right"></i>
-                                    Rail Freight
+                                    Landscape Design
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
                                     <i class="fa-solid fa-chevrons-right"></i>
-                                    Maritime Transport
+                                    Renovations
                                 </a>
                             </li>
                         </ul>

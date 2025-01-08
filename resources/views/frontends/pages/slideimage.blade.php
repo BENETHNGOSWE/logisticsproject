@@ -15,7 +15,7 @@
                          <div class="col-lg-8">
                              <div class="hero-content">
                                  <h5 data-animation="slideInRight" data-duration="2s" data-delay=".3s">best
-                                     Logistic company</h5>
+                                     Construction company</h5>
                                  <h1 data-animation="slideInRight" data-duration="2s" data-delay=".5s">
                                      You Can Start <br>
                                      Building Your <br>
@@ -54,7 +54,7 @@
                          <div class="col-lg-8">
                              <div class="hero-content">
                                  <h5 data-animation="slideInRight" data-duration="2s" data-delay=".3s">best
-                                     Logistic company</h5>
+                                 Construction company</h5>
                                  <h1 data-animation="slideInRight" data-duration="2s" data-delay=".5s">
                                      Build Your <br>
                                      Dream Home <br>
@@ -92,7 +92,7 @@
                          <div class="col-lg-8">
                              <div class="hero-content">
                                  <h5 data-animation="slideInRight" data-duration="2s" data-delay=".3s">best
-                                     Logistic company</h5>
+                                 Construction company</h5>
                                  <h1 data-animation="slideInRight" data-duration="2s" data-delay=".5s">
                                      Proud to Build <br>
                                      Your Dream <br>

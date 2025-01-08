@@ -9,7 +9,7 @@
     <meta name="author" content="pixel-drop">
     <meta name="description" content="Transko - Transport & Logistics HTML Template">
     <!-- ======== Page title ============ -->
-    <title>Cargo Website</title>
+    <title>Green Revolution</title>
     <!--<< Favcion >>-->
     <link rel="shortcut icon" href="assets/img/favicon.png">
     <link rel="stylesheet" href="{{ asset ('assets/css/bootstrap.min.css')}}">
