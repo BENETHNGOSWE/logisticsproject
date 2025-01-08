@@ -5,11 +5,11 @@
             <ul class="contact-list">
                 <li>
                     <i class="far fa-envelope"></i>
-                    <a href="mailto:info@example.com">developerbeneth@gmail.com</a>
+                    <a href="mailto:info@example.com">info@greenrevolution.com</a>
                 </li>
                 <li>
                     <i class="fa-sharp fa-solid fa-location-dot"></i>
-                    Mabibo - Dar es salaam
+                    Masaki - Dar es salaam
                 </li>
                 <li>
                     <i class="fa-regular fa-phone"></i>
