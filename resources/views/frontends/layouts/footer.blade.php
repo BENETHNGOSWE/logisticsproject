@@ -49,7 +49,9 @@
                         </div>
                         <div class="footer-content">
                             <p>
-                                Our company specializes in efficient and reliable cargo and air transport services. We ensure timely delivery of goods across various destinations
+                                Our company specializes in efficient and reliable construction and landscaping services.
+                                We ensure timely completion of projects, creating beautiful homes and outdoor spaces
+                                across various locations
                             </p>
                             <div class="social-icon d-flex align-items-center">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -142,7 +144,7 @@
                                 <div class="gallery-item">
                                     <div class="thumb">
                                         <a href="assets/img/footer/gallery-1.jpg" class="img-popup">
-                                            <img src="assets/img/footer/gallery-1.jpg" alt="gallery-img">
+                                            <img src="assets/img/footer/1.webp" alt="gallery-img">
                                             <div class="icon">
                                                 <i class="far fa-plus"></i>
                                             </div>
@@ -150,7 +152,7 @@
                                     </div>
                                     <div class="thumb">
                                         <a href="assets/img/footer/gallery-2.jpg" class="img-popup">
-                                            <img src="assets/img/footer/gallery-2.jpg" alt="gallery-img">
+                                            <img src="assets/img/footer/2.webp" alt="gallery-img">
                                             <div class="icon">
                                                 <i class="far fa-plus"></i>
                                             </div>
@@ -158,7 +160,7 @@
                                     </div>
                                     <div class="thumb">
                                         <a href="assets/img/footer/gallery-3.jpg" class="img-popup">
-                                            <img src="assets/img/footer/gallery-3.jpg" alt="gallery-img">
+                                            <img src="assets/img/footer/3.webp" alt="gallery-img">
                                             <div class="icon">
                                                 <i class="far fa-plus"></i>
                                             </div>
@@ -168,7 +170,7 @@
                                 <div class="gallery-item">
                                     <div class="thumb">
                                         <a href="assets/img/footer/gallery-4.jpg" class="img-popup">
-                                            <img src="assets/img/footer/gallery-4.jpg" alt="gallery-img">
+                                            <img src="assets/img/footer/4.webp" alt="gallery-img">
                                             <div class="icon">
                                                 <i class="far fa-plus"></i>
                                             </div>
@@ -176,7 +178,7 @@
                                     </div>
                                     <div class="thumb">
                                         <a href="assets/img/footer/gallery-5.jpg" class="img-popup">
-                                            <img src="assets/img/footer/gallery-5.jpg" alt="gallery-img">
+                                            <img src="assets/img/footer/5.webp" alt="gallery-img">
                                             <div class="icon">
                                                 <i class="far fa-plus"></i>
                                             </div>
@@ -184,7 +186,7 @@
                                     </div>
                                     <div class="thumb">
                                         <a href="assets/img/footer/gallery-6.jpg" class="img-popup">
-                                            <img src="assets/img/footer/gallery-6.jpg" alt="gallery-img">
+                                            <img src="assets/img/footer/6.webp" alt="gallery-img">
                                             <div class="icon">
                                                 <i class="far fa-plus"></i>
                                             </div>
@@ -198,7 +200,7 @@
             </div>
         </div>
         <div class="footer-bottom">
-            <p>© All Copyright 2024 by <a href="#">Koda.Koda</a></p>
+            <p>© All Copyright 2025 by <a href="#">Koda.Koda</a></p>
         </div>
     </div>
 </footer>

@@ -14,7 +14,7 @@
                         <img src="assets/img/about/03.webp" alt="img" class="wow fadeInLeft"
                             data-wow-delay=".3s">
                         <div class="about-image-2 wow fadeInUp" data-wow-delay=".2s">
-                            <img src="assets/img/about/04.jpg" alt="img">
+                            <img src="assets/img/about/2.webp" alt="img">
                         </div>
                         <div class="video-items wow fadeInUp">
                             <a href="https://www.youtube.com/watch?v=Cn4G2lZ_g2I" class="video-btn video-popup">

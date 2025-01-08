@@ -29,34 +29,56 @@
             <div class="spinner">
             </div>
             <div class="txt-loading">
-                <span data-text-preloader="K" class="letters-loading">
-                    K
+                <span data-text-preloader="G" class="letters-loading">
+                    G
+                </span>
+                <span data-text-preloader="R" class="letters-loading">
+                    R
+                </span>
+                <span data-text-preloader="E" class="letters-loading">
+                    E
+                </span>
+                <span data-text-preloader="E" class="letters-loading">
+                    E
+                </span>
+                <span data-text-preloader="N" class="letters-loading">
+                    N
+                </span>
+                <span data-text-preloader=" " class="letters-loading">
+                    &nbsp;
+                </span>
+                <span data-text-preloader="R" class="letters-loading">
+                    R
+                </span>
+                <span data-text-preloader="E" class="letters-loading">
+                    E
+                </span>
+                <span data-text-preloader="V" class="letters-loading">
+                    V
                 </span>
                 <span data-text-preloader="O" class="letters-loading">
                     O
                 </span>
-                <span data-text-preloader="D" class="letters-loading">
-                    D
+                <span data-text-preloader="L" class="letters-loading">
+                    L
                 </span>
-                <span data-text-preloader="A" class="letters-loading">
-                    A
+                <span data-text-preloader="U" class="letters-loading">
+                    U
                 </span>
-                <span data-text-preloader="." class="letters-loading">
-                    .
+                <span data-text-preloader="T" class="letters-loading">
+                    T
                 </span>
-                <span data-text-preloader="K" class="letters-loading">
-                    K
+                <span data-text-preloader="I" class="letters-loading">
+                    I
                 </span>
                 <span data-text-preloader="O" class="letters-loading">
                     O
                 </span>
-                <span data-text-preloader="D" class="letters-loading">
-                    D
-                </span>
-                <span data-text-preloader="A" class="letters-loading">
-                    A
+                <span data-text-preloader="N" class="letters-loading">
+                    N
                 </span>
             </div>
+            
             <p class="text-center">Loading</p>
         </div>
         <div class="loader">

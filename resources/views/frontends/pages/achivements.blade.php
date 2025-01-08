@@ -65,9 +65,9 @@
               </div>
               <div class="col-xxl-4 col-xl-5 col-lg-6 wow fadeInUp" data-wow-delay=".2s">
                   <div class="achivements-image">
-                      <img src="assets/img/achivements-image.jpg" alt="img">
+                      <img src="assets/img/1.webp" alt="img">
                       <div class="achivements-image-2 float-bob-y">
-                          <img src="assets/img/achivements-image-2.jpg" alt="img">
+                          <img src="assets/img/2.webp" alt="img">
                       </div>
                   </div>
               </div>

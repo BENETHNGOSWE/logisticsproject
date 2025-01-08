@@ -17,13 +17,13 @@
                 <div class="swiper-slide">
                     <div class="service-card-items">
                         <div class="service-image">
-                            <img src="assets/img/service/05.jpg" alt="img">
+                            <img src="assets/img/hero/3.webp" alt="img">
                         </div>
                         <div class="bar-shape">
                             <img src="assets/img/service/bar.png" alt="img">
                         </div>
                         <div class="icon">
-                            <i class="fa-sharp fa-solid fa-plane-arrival"></i>
+                            <i class="fas fa-home"></i>
                         </div>
                         <div class="content">
                             <h3><a href="service-details.html">Home Construction</a></h3>
@@ -40,13 +40,13 @@
                 <div class="swiper-slide">
                     <div class="service-card-items">
                         <div class="service-image">
-                            <img src="assets/img/service/05.jpg" alt="img">
+                            <img src="assets/img/hero/3.webp" alt="img">
                         </div>
                         <div class="bar-shape">
                             <img src="assets/img/service/bar.png" alt="img">
                         </div>
                         <div class="icon">
-                            <i class="fa-solid fa-plane"></i>
+                            <i class="fas fa-seedling"></i>
                         </div>
                         <div class="content">
                             <h3><a href="service-details.html">Landscape Design</a></h3>
@@ -63,13 +63,13 @@
                 <div class="swiper-slide">
                     <div class="service-card-items">
                         <div class="service-image">
-                            <img src="assets/img/service/05.jpg" alt="img">
+                            <img src="assets/img/hero/3.webp" alt="img">
                         </div>
                         <div class="bar-shape">
                             <img src="assets/img/service/bar.png" alt="img">
                         </div>
                         <div class="icon">
-                            <i class="fas fa-landmark"></i>
+                            <i class="fas fa-tools"></i>
                         </div>
                         <div class="content">
                             <h3><a href="service-details.html">Renovations</a></h3>
@@ -86,13 +86,13 @@
                 <div class="swiper-slide">
                     <div class="service-card-items">
                         <div class="service-image">
-                            <img src="assets/img/service/05.jpg" alt="img">
+                            <img src="assets/img/hero/3.webp" alt="img">
                         </div>
                         <div class="bar-shape">
                             <img src="assets/img/service/bar.png" alt="img">
                         </div>
                         <div class="icon">
-                            <i class="fa-sharp fa-solid fa-train"></i>
+                            <i class="fas fa-tasks"></i>
                         </div>
                         <div class="content">
                             <h3><a href="service-details.html">Project Management</a></h3>
